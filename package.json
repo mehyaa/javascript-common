@@ -1,0 +1,19 @@
+{
+    "name": "javascript-common",
+    "version": "1.0.0",
+    "description": "JavaScript common libraries.",
+    "homepage": "https://github.com/mehyaa/javascript-common",
+    "repository": "github:mehyaa/javascript-common",
+    "author": {
+        "name": "mehyaa",
+        "email": "mehyaa@gmail.com",
+        "url": "http://www.mehyaa.com"
+    },
+    "private": true,
+    "scripts": {
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
