@@ -1,7 +1,7 @@
 {
     "name": "javascript-common",
     "version": "1.0.0",
-    "description": "JavaScript common libraries.",
+    "description": "Miscellaneous JavaScript utilities for general use.",
     "homepage": "https://github.com/mehyaa/javascript-common",
     "repository": "github:mehyaa/javascript-common",
     "author": {
@@ -9,7 +9,7 @@
         "email": "mehyaa@gmail.com",
         "url": "http://www.mehyaa.com"
     },
-    "private": true,
+    "license" : "GPL-3.0-or-later",
     "scripts": {
     },
     "dependencies": {
