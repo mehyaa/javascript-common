@@ -1,0 +1,4 @@
+deploy:
+  provider: npm
+  email: "$EMAIL"
+  api_key: "$NPMJS_API_KEY"
