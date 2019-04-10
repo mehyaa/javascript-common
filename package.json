@@ -13,7 +13,9 @@
         "url": "https://github.com/mehyaa"
     },
     "license": "GPL-3.0-or-later",
-    "scripts": {},
+    "scripts": {
+        "test": "node --version"
+    },
     "dependencies": {},
     "devDependencies": {},
     "engines": {
