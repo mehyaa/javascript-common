@@ -15,5 +15,9 @@
     "license": "GPL-3.0-or-later",
     "scripts": {},
     "dependencies": {},
-    "devDependencies": {}
+    "devDependencies": {},
+    "engines": {
+        "node": "^8.0.0",
+        "yarn": "^1.15.0"
+    }
 }
