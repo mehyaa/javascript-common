@@ -1,4 +1,4 @@
-# JavaScript Common Library [![Build Status](https://travis-ci.com/mehyaa/javascript-common.svg?branch=master)](https://travis-ci.com/mehyaa/javascript-common)
+# JavaScript Common Library [![Build Status](https://travis-ci.com/mehyaa/javascript-common.svg?branch=master)](https://travis-ci.com/mehyaa/javascript-common) [![Version](https://img.shields.io/npm/v/@mehyaa/javascript-common.svg)](https://www.npmjs.com/package/@mehyaa/javascript-common) [![License](https://img.shields.io/npm/l/@mehyaa/javascript-common.svg)](https://opensource.org/licenses/GPL-3.0)
 
 Miscellaneous JavaScript utilities for general use.
 
@@ -19,7 +19,3 @@ Just a few notes for anyone who wishes to use this library:
 * The modules within the library must be imported seperately.
 
 * The modules within the library are as-is and written in EcmaScript 6 so if your target environment uses lower versions of EcmaScript you need to transpile the modules.
-
-### License
-
-[GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
